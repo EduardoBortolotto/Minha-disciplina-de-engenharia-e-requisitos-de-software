@@ -1,0 +1,8 @@
+Oque é um software?
+Um software é um conjunto de programas, dados e instruções que fazem um computador ou outro dispositivo eletrônico funcionar.
+
+Software de sistema:
+Inclui o sistema operacional (como Windows, macOS ou Linux), que gerencia o hardware e permite que outros programas funcionem corretamente.
+
+Software aplicativo:
+Refere-se a programas que são criados para realizar tarefas específicas, como navegadores de internet, editores de texto, jogos ou softwares de design gráfico.
