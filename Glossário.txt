@@ -1,11 +1,25 @@
-Oque é um software?
+Software:
 Um software é um conjunto de instruções, dados e programas que orientam um computador ou dispositivo eletrônico sobre como realizar tarefas específicas. Diferente do hardware, que é a parte física de um dispositivo, o software refere-se aos componentes intangíveis que permitem ao hardware executar funções e interagir com o usuário.
 
 Software de sistema:
 Inclui o sistema operacional (como Windows, macOS ou Linux), que gerencia o hardware e permite que outros programas funcionem corretamente.
 
-Software aplicativo:
+Software de aplicativo:
 Refere-se a programas que são criados para realizar tarefas específicas, como navegadores de internet, editores de texto, jogos ou softwares de design gráfico.
+
+Aplicação Web: 
+Uma aplicação web é um software ou programa que roda em um navegador de internet, como o Google Chrome, Mozilla Firefox ou Safari, e não precisa ser instalado no computador do usuário.
+
+Software legado:
+Programas ou sistemas antigos que ainda estão em operação, mas que já são obsoletos ou desatualizados em relação às tecnologias mais recentes.
+
+Engenharia de Software:
+Engenharia de software é o estabelecimento e o emprego de sólidos princípios de engenharia de modo a obter software de maneira econômica, que seja confiável e funcione de forma eficiente em máquinas reais.
+
+U.M.L:
+Unified Modeling Language (Linguagem de Modelagem Unificada). É uma linguagem de modelagem padrão usada principalmente no desenvolvimento de software para representar, especificar, visualizar, construir e documentar os componentes de um sistema.
 
 SaaS:
 SaaS (Software as a Service) é um modelo de entrega de software onde as aplicações são fornecidas pela internet como um serviço. Ou seja, ao invés de comprar, instalar e manter um software em um servidor local ou computador, o usuário acessa o software diretamente de um provedor via internet, normalmente por meio de um navegador web.
+
+
