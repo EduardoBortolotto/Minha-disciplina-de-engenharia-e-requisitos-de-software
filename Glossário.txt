@@ -22,4 +22,5 @@ Unified Modeling Language (Linguagem de Modelagem Unificada). É uma linguagem d
 SaaS:
 SaaS (Software as a Service) é um modelo de entrega de software onde as aplicações são fornecidas pela internet como um serviço. Ou seja, ao invés de comprar, instalar e manter um software em um servidor local ou computador, o usuário acessa o software diretamente de um provedor via internet, normalmente por meio de um navegador web.
 
-
+Modelos de Processo:
+Os modelos de processo de software são abordagens estruturadas para o desenvolvimento de software. Eles definem atividades, etapas e práticas para garantir a criação de um software eficiente e de qualidade.
