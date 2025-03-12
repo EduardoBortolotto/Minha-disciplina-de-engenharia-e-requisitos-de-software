@@ -24,3 +24,22 @@ SaaS (Software as a Service) é um modelo de entrega de software onde as aplica�
 
 Modelos de Processo:
 Os modelos de processo de software são abordagens estruturadas para o desenvolvimento de software. Eles definem atividades, etapas e práticas para garantir a criação de um software eficiente e de qualidade.
+
+Modelos Tradicionais(Pesados):
+Os modelos tradicionais seguem um planejamento rigoroso e estruturado, com fases bem definidas.
+Principais modelos:
+-Cascata (Waterfall): Processo sequencial (requisitos → design → implementação → testes → manutenção).
+-V-Model: Extensão do Cascata, com foco maior em testes.
+-Espiral: Desenvolvimento iterativo com análise contínua de riscos.
+-Incremental: O software é entregue em partes (incrementos), facilitando ajustes.
+Vantagens: Bem documentado, previsível, bom para projetos com requisitos fixos.
+Desvantagens: Pouca flexibilidade, difícil adaptação a mudanças.
+
+Modelos Ágeis(Leves):
+Os modelos ágeis são mais flexíveis e iterativos, permitindo mudanças frequentes com entregas contínuas.
+Principais modelos:
+-Scrum: Trabalho em ciclos curtos (sprints) e colaboração intensa.
+-Kanban: Fluxo contínuo de tarefas organizado em um quadro visual.
+-Extreme Programming (XP): Foco na qualidade do código com práticas como programação em pares e testes automatizados.
+Vantagens: Adaptável, entregas rápidas, feedback contínuo.
+Desvantagens: Pode ser difícil gerenciar grandes equipes, exige envolvimento constante do cliente.
